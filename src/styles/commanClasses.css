@@ -1,0 +1,13 @@
+.max-width {
+  max-width: 90%;
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.absulute-center {
+  justify-content: center;
+  align-items: center;
+}

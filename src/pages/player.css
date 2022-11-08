@@ -1,0 +1,54 @@
+.player-header {
+  justify-content: space-around;
+  padding: 20px 0px;
+  align-items: center;
+}
+
+.icon {
+  font-size: 24px;
+  color: var(--icon-color);
+}
+
+.player-head-title {
+  font-family: "Poppins";
+  font-size: 19px;
+  line-height: 24px;
+  text-align: center;
+  font-weight: 600;
+  letter-spacing: -1px;
+  color: rgba(46, 46, 93, 1);
+}
+
+.player-cover-image {
+  margin: 10px;
+  width: 319px;
+  height: 335px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.player-music-title {
+  font-family: "Poppins";
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: var(--icon-color);
+}
+
+.player-author {
+  text-align: left;
+  margin-left: 34px;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 5px;
+  background-image: linear-gradient(
+    60deg,
+    var(--icon-color),
+    var(--bg-light-blue)
+  );
+  background-clip: text;
+  color: transparent;
+  opacity: 0.8;
+}

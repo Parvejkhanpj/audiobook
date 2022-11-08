@@ -1,0 +1,18 @@
+.header-wrapper {
+  width: 375px;
+  padding: 30px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.logo {
+  width: 165px;
+  height: 40px;
+}
+
+.header-setting-icon {
+  font-size: 24px;
+  margin-top: 10px;
+  color: var(--text-purple);
+}

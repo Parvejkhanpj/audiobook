@@ -1,0 +1,27 @@
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: white;
+  text-align: center;
+}
+
+.footer-wrapper {
+  justify-content: space-around;
+  padding: 10px 0px;
+}
+
+.footer-icon-wraper {
+  cursor: pointer;
+}
+
+.icon {
+  font-size: 18px;
+
+  border-radius: 10px;
+}
+
+.icon-text {
+  font-size: 12px;
+}
