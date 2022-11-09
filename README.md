@@ -13,3 +13,13 @@ Playing Page
 -> bottombar
 -> Header bar
 -> Controls
+
+### UI Done
+
+/_ HomePage _/
+-> show audio on homepage using map
+-> make search functionlity
+
+/_ Search and data ganrate completed /_
+
+### get to audio platform and play audio

@@ -42,7 +42,7 @@
 }
 
 .player-author {
-  text-align: left;
+  text-align: center;
   margin-left: 34px;
   font-size: 16px;
   font-weight: 500;
@@ -64,7 +64,7 @@
 }
 .player-timeline {
   width: 309px;
-  height: 32px;
+  height: 2px;
   accent-color: rgba(72, 56, 209, 1);
 }
 
@@ -117,4 +117,12 @@
   display: flex;
   justify-content: space-between;
   margin: 0px 20px;
+}
+
+.play-iocn {
+  font-size: 40px;
+  background-color: var(--text-purple);
+  padding: 15px;
+  color: white;
+  border-radius: 50%;
 }
